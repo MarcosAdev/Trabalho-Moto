@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+     color: #333;
+    font-size: 14px;
+    line-height:
+                  20px;
+}
+
+img {
+     display: inline-block;
+    max-width: 100%;
+}
