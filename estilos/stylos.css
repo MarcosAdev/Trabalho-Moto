@@ -37,3 +37,25 @@
     margin-bottom:20px;
     text-align: center;
   }
+ 
+  .map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  .map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
+  .textoPe{
+    width: 100px;
+    text-align: center;
+    background-color: white;
+  }
+  .btn{
+    margin-right: 5px;
+  }
